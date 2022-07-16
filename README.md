@@ -1,5 +1,24 @@
 # Effective Graph Based Approach for Data Corruption Detection:
 
+## Data :
+
+1. [California Housing Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
+
+2. [Life Expectancy Dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
+
+3. [Country Data](https://www.kaggle.com/code/dgupta18/country-clusters)
+
+
+## Level Of Corruption:
+
+1. Outliers
+
+2. Modified/Contaminated Values
+
+3. Missing/NaN Values
+
+
+## Results :
 
 ### Original :
 
