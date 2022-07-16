@@ -12,7 +12,8 @@ Modified :
 
 
 K Means Cluster Results :
-![image](https://user-images.githubusercontent.com/79207846/179351635-98d0c6e7-9cc3-4eaa-bdd8-5efbbb83f751.png)
+![image](https://user-images.githubusercontent.com/79207846/179351755-37003d1d-0c3f-4ff4-ae23-da0fa3e367bf.png)
+
 
 
 Modified Adamic Adar Results :
