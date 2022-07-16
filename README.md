@@ -22,7 +22,7 @@ Dataset corruption is a critical problem that needs to be addressed in the near 
 
 ## RESULTS :
 
-### Original :
+### Original Data:
 
 ![image](https://user-images.githubusercontent.com/79207846/179351694-97f29d7e-7051-4320-9109-d4f4fbdd2595.png)
 
