@@ -1,16 +1,16 @@
 # Effective Graph Based Approach for Data Corruption Detection:
 
-** Original : **
+**Original :**
 
 ![image](https://user-images.githubusercontent.com/79207846/179351694-97f29d7e-7051-4320-9109-d4f4fbdd2595.png)
 
 
-** Modified : **
+<b>Modified :</b>
 
 ![image](https://user-images.githubusercontent.com/79207846/179351483-81dd18c6-4ba9-48fd-b35e-692bb2b97674.png)
 
 
-** K Means Cluster Results : **
+# K Means Cluster Results :
 
 ![image](https://user-images.githubusercontent.com/79207846/179351755-37003d1d-0c3f-4ff4-ae23-da0fa3e367bf.png)
 
