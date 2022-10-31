@@ -1,5 +1,7 @@
 # EFFECTIVE GRAPH BASED APPROACH FOR DATA CORRUPTION DETECTION :
 
+Paper titled "Data Regeneration from Poisoned Datasets" accepted at 7th IEEE ICRAIE at NIT-K.
+
 Dataset corruption is a critical problem that needs to be addressed in the near future. Being in an era rife with technology every company and organisation will want to leverage the power of machine learning and data analytics to overcome such problems. It is a significant task that calls for highly statistical algorithms to detect tainted data. We aim to address the aforementioned issue utilising a novel strategy that makes use of the Adamic-Adar algorithm, which is frequently applied in social networks. To find outliers, we contrast this strategy with the prevailing K-Means clustering technique.
 
 ## DATASETS :
